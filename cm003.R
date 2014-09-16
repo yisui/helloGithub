@@ -1,4 +1,25 @@
 x  <- 3*4
+x
+
+this_is_a_really_long_name <- 2.5 
+this_is_a_really_long_name
+
+seq(1,10)
+
+yo <- "hello world"
+
+y<- seq(1, 10)
+y
+(y <- seq(1,10))
+
+date()
+objects()
+
+ls()
+
+rm(y)
+rm(list = ls())
+
 is.vector(x)
 length(x)
 x[2]  <- 100
